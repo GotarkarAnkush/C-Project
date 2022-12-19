@@ -2,4 +2,5 @@
 main()
 {
 printf("Welcome);
+printf(" Spark institute");
 }
